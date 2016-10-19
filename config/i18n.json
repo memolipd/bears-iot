@@ -1,0 +1,14 @@
+{
+  "i18n": {
+    "defaultLocale": "en_GB",
+    "modes": [
+      "query",
+      "subdomain",
+      "cookie",
+      "header",
+      "url",
+      "tld"
+    ],
+    "cookieName": "locale"
+  }
+}

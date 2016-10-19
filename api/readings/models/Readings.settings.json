@@ -1,0 +1,45 @@
+{
+  "identity": "readings",
+  "connection": "permanent",
+  "defaultTemplate": "default",
+  "displayedAttribute": "",
+  "schema": true,
+  "attributes": {
+    "value": {
+      "type": "float"
+    },
+    "type": {
+      "type": "string"
+    },
+    "meta": {
+      "type": "json"
+    },
+    "lang": {
+      "type": "string",
+      "required": true
+    },
+    "template": {
+      "type": "string",
+      "required": true
+    },
+    "id_ref": {
+      "type": "int"
+    },
+    "createdBy": {
+      "model": "user"
+    },
+    "updatedBy": {
+      "model": "user"
+    },
+    "contributors": {
+      "collection": "user",
+      "via": "readings"
+    },
+    "device": {
+      "model": "devices"
+    }
+  },
+  "autoCreatedAt": true,
+  "autoUpdatedAt": true,
+  "migrate": "alter"
+}

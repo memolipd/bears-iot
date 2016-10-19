@@ -1,0 +1,1702 @@
+{
+  "data": {
+    "reading": [
+      {
+        "type": "temp",
+        "value": 20,
+        "lang": "en_GB",
+        "template": "default",
+        "createdBy": 1,
+        "device": 1,
+        "id": 1,
+        "createdAt": "2016-10-13T23:26:55.089Z",
+        "updatedAt": "2016-10-14T01:12:37.632Z"
+      }
+    ],
+    "devices": [
+      {
+        "name": "Window Opener",
+        "target": 21,
+        "buffer": 2,
+        "createdBy": 1,
+        "updatedBy": 1,
+        "lang": "en_GB",
+        "template": "default",
+        "id": 2,
+        "createdAt": "2016-10-14T02:05:57.180Z",
+        "updatedAt": "2016-10-15T02:44:51.069Z"
+      }
+    ],
+    "readings": [
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 246,
+        "createdAt": "2016-10-15T05:09:42.989Z",
+        "updatedAt": "2016-10-15T05:09:43.012Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 247,
+        "createdAt": "2016-10-15T05:18:43.630Z",
+        "updatedAt": "2016-10-15T05:18:43.653Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 248,
+        "createdAt": "2016-10-15T05:18:45.389Z",
+        "updatedAt": "2016-10-15T05:18:45.403Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 249,
+        "createdAt": "2016-10-15T05:18:46.415Z",
+        "updatedAt": "2016-10-15T05:18:46.421Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 250,
+        "createdAt": "2016-10-17T22:52:48.914Z",
+        "updatedAt": "2016-10-17T22:52:48.932Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 251,
+        "createdAt": "2016-10-17T22:57:18.251Z",
+        "updatedAt": "2016-10-17T22:57:18.267Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 252,
+        "createdAt": "2016-10-17T23:48:34.856Z",
+        "updatedAt": "2016-10-17T23:48:34.886Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 253,
+        "createdAt": "2016-10-17T23:54:19.546Z",
+        "updatedAt": "2016-10-17T23:54:19.566Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 254,
+        "createdAt": "2016-10-17T23:58:45.293Z",
+        "updatedAt": "2016-10-17T23:58:45.303Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 255,
+        "createdAt": "2016-10-18T00:01:08.926Z",
+        "updatedAt": "2016-10-18T00:01:08.941Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 256,
+        "createdAt": "2016-10-18T00:01:33.267Z",
+        "updatedAt": "2016-10-18T00:01:33.273Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 257,
+        "createdAt": "2016-10-18T00:02:43.502Z",
+        "updatedAt": "2016-10-18T00:02:43.509Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 258,
+        "createdAt": "2016-10-18T00:04:56.243Z",
+        "updatedAt": "2016-10-18T00:04:56.255Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 259,
+        "createdAt": "2016-10-18T00:20:23.674Z",
+        "updatedAt": "2016-10-18T00:20:23.681Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 260,
+        "createdAt": "2016-10-18T00:20:58.880Z",
+        "updatedAt": "2016-10-18T00:20:58.887Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 261,
+        "createdAt": "2016-10-18T00:34:08.830Z",
+        "updatedAt": "2016-10-18T00:34:08.839Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 262,
+        "createdAt": "2016-10-18T00:35:41.747Z",
+        "updatedAt": "2016-10-18T00:35:41.782Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 263,
+        "createdAt": "2016-10-18T00:36:06.894Z",
+        "updatedAt": "2016-10-18T00:36:06.927Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 264,
+        "createdAt": "2016-10-18T00:38:03.863Z",
+        "updatedAt": "2016-10-18T00:38:03.885Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 265,
+        "createdAt": "2016-10-18T00:39:20.093Z",
+        "updatedAt": "2016-10-18T00:39:20.107Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 266,
+        "createdAt": "2016-10-18T00:41:20.933Z",
+        "updatedAt": "2016-10-18T00:41:20.940Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 267,
+        "createdAt": "2016-10-18T00:41:38.792Z",
+        "updatedAt": "2016-10-18T00:41:38.829Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 268,
+        "createdAt": "2016-10-18T00:42:23.380Z",
+        "updatedAt": "2016-10-18T00:42:23.389Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 269,
+        "createdAt": "2016-10-18T00:42:45.384Z",
+        "updatedAt": "2016-10-18T00:42:45.392Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 270,
+        "createdAt": "2016-10-18T00:43:13.900Z",
+        "updatedAt": "2016-10-18T00:43:13.907Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 271,
+        "createdAt": "2016-10-18T00:51:23.471Z",
+        "updatedAt": "2016-10-18T00:51:23.513Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 272,
+        "createdAt": "2016-10-18T00:54:26.240Z",
+        "updatedAt": "2016-10-18T00:54:26.260Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 273,
+        "createdAt": "2016-10-18T00:54:35.241Z",
+        "updatedAt": "2016-10-18T00:54:35.273Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 274,
+        "createdAt": "2016-10-18T00:55:32.814Z",
+        "updatedAt": "2016-10-18T00:55:32.822Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 275,
+        "createdAt": "2016-10-18T01:00:05.229Z",
+        "updatedAt": "2016-10-18T01:00:05.246Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 276,
+        "createdAt": "2016-10-18T01:00:08.644Z",
+        "updatedAt": "2016-10-18T01:00:08.671Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 277,
+        "createdAt": "2016-10-18T01:03:25.271Z",
+        "updatedAt": "2016-10-18T01:03:25.289Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 278,
+        "createdAt": "2016-10-18T01:06:35.272Z",
+        "updatedAt": "2016-10-18T01:06:35.299Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 279,
+        "createdAt": "2016-10-18T01:07:07.411Z",
+        "updatedAt": "2016-10-18T01:07:07.433Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 280,
+        "createdAt": "2016-10-18T01:07:37.227Z",
+        "updatedAt": "2016-10-18T01:07:37.255Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 281,
+        "createdAt": "2016-10-18T18:55:43.646Z",
+        "updatedAt": "2016-10-18T18:55:43.706Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 282,
+        "createdAt": "2016-10-18T18:55:43.671Z",
+        "updatedAt": "2016-10-18T18:55:43.728Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 283,
+        "createdAt": "2016-10-18T18:58:06.995Z",
+        "updatedAt": "2016-10-18T18:58:07.022Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 284,
+        "createdAt": "2016-10-18T18:58:38.309Z",
+        "updatedAt": "2016-10-18T18:58:38.323Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 285,
+        "createdAt": "2016-10-18T18:59:39.950Z",
+        "updatedAt": "2016-10-18T18:59:39.988Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 286,
+        "createdAt": "2016-10-18T19:00:09.607Z",
+        "updatedAt": "2016-10-18T19:00:09.652Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 287,
+        "createdAt": "2016-10-18T19:00:41.060Z",
+        "updatedAt": "2016-10-18T19:00:41.079Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 288,
+        "createdAt": "2016-10-18T19:01:18.588Z",
+        "updatedAt": "2016-10-18T19:01:18.609Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 289,
+        "createdAt": "2016-10-18T19:02:30.814Z",
+        "updatedAt": "2016-10-18T19:02:30.885Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 290,
+        "createdAt": "2016-10-18T19:03:04.562Z",
+        "updatedAt": "2016-10-18T19:03:04.584Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 291,
+        "createdAt": "2016-10-18T19:04:46.446Z",
+        "updatedAt": "2016-10-18T19:04:46.453Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 292,
+        "createdAt": "2016-10-18T19:04:50.060Z",
+        "updatedAt": "2016-10-18T19:04:50.092Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 293,
+        "createdAt": "2016-10-18T19:05:33.410Z",
+        "updatedAt": "2016-10-18T19:05:33.449Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 294,
+        "createdAt": "2016-10-18T19:05:51.558Z",
+        "updatedAt": "2016-10-18T19:05:51.590Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 295,
+        "createdAt": "2016-10-18T19:06:25.559Z",
+        "updatedAt": "2016-10-18T19:06:25.570Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 296,
+        "createdAt": "2016-10-18T19:06:51.704Z",
+        "updatedAt": "2016-10-18T19:06:51.732Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 297,
+        "createdAt": "2016-10-18T19:08:28.880Z",
+        "updatedAt": "2016-10-18T19:08:28.894Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 298,
+        "createdAt": "2016-10-18T19:08:53.185Z",
+        "updatedAt": "2016-10-18T19:08:53.200Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 299,
+        "createdAt": "2016-10-18T19:09:32.055Z",
+        "updatedAt": "2016-10-18T19:09:32.065Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 300,
+        "createdAt": "2016-10-18T19:09:56.181Z",
+        "updatedAt": "2016-10-18T19:09:56.196Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 301,
+        "createdAt": "2016-10-18T19:11:39.641Z",
+        "updatedAt": "2016-10-18T19:11:39.661Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 302,
+        "createdAt": "2016-10-18T19:12:09.728Z",
+        "updatedAt": "2016-10-18T19:12:09.790Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 303,
+        "createdAt": "2016-10-18T19:12:37.412Z",
+        "updatedAt": "2016-10-18T19:12:37.419Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 304,
+        "createdAt": "2016-10-18T19:13:14.709Z",
+        "updatedAt": "2016-10-18T19:13:14.726Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 305,
+        "createdAt": "2016-10-18T19:13:38.701Z",
+        "updatedAt": "2016-10-18T19:13:38.739Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 306,
+        "createdAt": "2016-10-18T20:08:41.305Z",
+        "updatedAt": "2016-10-18T20:08:41.323Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 307,
+        "createdAt": "2016-10-18T20:09:10.060Z",
+        "updatedAt": "2016-10-18T20:09:10.096Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 308,
+        "createdAt": "2016-10-18T20:11:28.961Z",
+        "updatedAt": "2016-10-18T20:11:28.969Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 309,
+        "createdAt": "2016-10-18T20:16:43.400Z",
+        "updatedAt": "2016-10-18T20:16:43.415Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 310,
+        "createdAt": "2016-10-18T20:17:12.916Z",
+        "updatedAt": "2016-10-18T20:17:12.949Z"
+      },
+      {
+        "type": "temp",
+        "value": 26,
+        "device": 2,
+        "template": "default",
+        "lang": "en_GB",
+        "createdAt": "2016-10-18T20:17:48.927Z",
+        "updatedAt": "2016-10-18T20:17:48.938Z",
+        "id": 311
+      },
+      {
+        "type": "temp",
+        "value": 26,
+        "device": 2,
+        "template": "default",
+        "lang": "en_GB",
+        "createdAt": "2016-10-18T20:17:57.266Z",
+        "updatedAt": "2016-10-18T20:17:57.291Z",
+        "id": 312
+      }
+    ],
+    "role": [
+      {
+        "name": "admin",
+        "id": 1,
+        "createdAt": "2016-10-13T21:46:49.921Z",
+        "updatedAt": "2016-10-13T21:46:49.921Z"
+      }
+    ],
+    "route": [
+      {
+        "name": "GET /admin/config",
+        "policies": [],
+        "controller": "Config",
+        "action": "index",
+        "isPublic": true,
+        "registeredAuthorized": true,
+        "contributorsAuthorized": true,
+        "id": 1,
+        "createdAt": "2016-10-13T22:49:51.646Z",
+        "updatedAt": "2016-10-18T20:17:46.911Z"
+      },
+      {
+        "name": "GET /admin/routes",
+        "policies": null,
+        "controller": "Route",
+        "action": "find",
+        "isPublic": true,
+        "registeredAuthorized": true,
+        "contributorsAuthorized": true,
+        "id": 2,
+        "createdAt": "2016-10-13T22:49:51.647Z",
+        "updatedAt": "2016-10-18T20:17:46.917Z"
+      },
+      {
+        "name": "PUT /admin/routes",
+        "policies": [
+          "isAuthorized"
+        ],
+        "controller": "Route",
+        "action": "update",
+        "isPublic": false,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": true,
+        "id": 3,
+        "createdAt": "2016-10-13T22:49:51.648Z",
+        "updatedAt": "2016-10-18T20:17:46.925Z"
+      },
+      {
+        "name": "GET /admin/explorer/:model",
+        "policies": [
+          "isAuthorized"
+        ],
+        "controller": "Explorer",
+        "action": "find",
+        "isPublic": true,
+        "registeredAuthorized": true,
+        "contributorsAuthorized": true,
+        "id": 4,
+        "createdAt": "2016-10-13T22:49:51.648Z",
+        "updatedAt": "2016-10-18T20:17:46.927Z"
+      },
+      {
+        "name": "GET /admin/explorer/:model/count",
+        "policies": [
+          "isAuthorized"
+        ],
+        "controller": "Explorer",
+        "action": "count",
+        "isPublic": true,
+        "registeredAuthorized": true,
+        "contributorsAuthorized": true,
+        "id": 5,
+        "createdAt": "2016-10-13T22:49:51.648Z",
+        "updatedAt": "2016-10-18T20:17:46.933Z"
+      },
+      {
+        "name": "GET /admin/explorer/:model/:id",
+        "policies": [
+          "isAuthorized"
+        ],
+        "controller": "Explorer",
+        "action": "findOne",
+        "isPublic": true,
+        "registeredAuthorized": true,
+        "contributorsAuthorized": true,
+        "id": 6,
+        "createdAt": "2016-10-13T22:49:51.659Z",
+        "updatedAt": "2016-10-18T20:17:46.937Z"
+      },
+      {
+        "name": "POST /admin/explorer/:model",
+        "policies": [
+          "isAuthorized",
+          "addDataCreate"
+        ],
+        "controller": "Explorer",
+        "action": "create",
+        "isPublic": false,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": true,
+        "id": 7,
+        "createdAt": "2016-10-13T22:49:51.660Z",
+        "updatedAt": "2016-10-18T20:17:46.940Z"
+      },
+      {
+        "name": "PUT /admin/explorer/:model/:id",
+        "policies": [
+          "isAuthorized",
+          "addDataUpdate"
+        ],
+        "controller": "Explorer",
+        "action": "update",
+        "isPublic": false,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": true,
+        "id": 8,
+        "createdAt": "2016-10-13T22:49:51.661Z",
+        "updatedAt": "2016-10-18T20:17:46.944Z"
+      },
+      {
+        "name": "DELETE /admin/explorer/:model/:id",
+        "policies": [
+          "isAuthorized"
+        ],
+        "controller": "Explorer",
+        "action": "destroy",
+        "isPublic": false,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": true,
+        "id": 9,
+        "createdAt": "2016-10-13T22:49:51.662Z",
+        "updatedAt": "2016-10-18T20:17:46.946Z"
+      },
+      {
+        "name": "POST /email",
+        "policies": [
+          "isAuthorized"
+        ],
+        "controller": "Email",
+        "action": "send",
+        "isPublic": false,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": true,
+        "id": 10,
+        "createdAt": "2016-10-13T22:49:51.662Z",
+        "updatedAt": "2016-10-18T20:17:46.982Z"
+      },
+      {
+        "name": "POST /upload",
+        "policies": [
+          "addDataCreate",
+          "authenticated"
+        ],
+        "controller": "Upload",
+        "action": "upload",
+        "isPublic": false,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": true,
+        "id": 11,
+        "createdAt": "2016-10-13T22:49:51.663Z",
+        "updatedAt": "2016-10-18T20:17:47.023Z"
+      },
+      {
+        "name": "GET /user",
+        "policies": [
+          "isAuthorized"
+        ],
+        "controller": "User",
+        "action": "find",
+        "isPublic": false,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": false,
+        "id": 12,
+        "createdAt": "2016-10-13T22:49:51.663Z",
+        "updatedAt": "2016-10-18T20:17:47.031Z"
+      },
+      {
+        "name": "GET /user/:id",
+        "policies": [
+          "isAuthorized"
+        ],
+        "controller": "User",
+        "action": "findOne",
+        "isPublic": false,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": true,
+        "id": 13,
+        "createdAt": "2016-10-13T22:49:51.664Z",
+        "updatedAt": "2016-10-18T20:17:47.037Z"
+      },
+      {
+        "name": "POST /user",
+        "policies": [
+          "isAuthorized",
+          "addDataCreate",
+          "deleteRoles"
+        ],
+        "controller": "User",
+        "action": "create",
+        "isPublic": false,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": false,
+        "id": 14,
+        "createdAt": "2016-10-13T22:49:51.665Z",
+        "updatedAt": "2016-10-18T20:17:47.043Z"
+      },
+      {
+        "name": "PUT /user/:id",
+        "policies": [
+          "isAuthorized",
+          "addDataUpdate",
+          "deleteRoles"
+        ],
+        "controller": "User",
+        "action": "update",
+        "isPublic": false,
+        "registeredAuthorized": true,
+        "contributorsAuthorized": true,
+        "id": 15,
+        "createdAt": "2016-10-13T22:49:51.666Z",
+        "updatedAt": "2016-10-18T20:17:47.046Z"
+      },
+      {
+        "name": "DELETE /user/:id",
+        "policies": [
+          "isAuthorized"
+        ],
+        "controller": "User",
+        "action": "destroy",
+        "isPublic": false,
+        "registeredAuthorized": true,
+        "contributorsAuthorized": true,
+        "id": 16,
+        "createdAt": "2016-10-13T22:49:51.666Z",
+        "updatedAt": "2016-10-18T20:17:47.048Z"
+      },
+      {
+        "name": "POST /user/:parentId/:relation",
+        "policies": [
+          "isAuthorized",
+          "addDataCreate",
+          "userAddOrRemoveRole"
+        ],
+        "controller": "User",
+        "action": "add",
+        "isPublic": false,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": false,
+        "id": 17,
+        "createdAt": "2016-10-13T22:49:51.667Z",
+        "updatedAt": "2016-10-18T20:17:47.051Z"
+      },
+      {
+        "name": "DELETE /user/:parentId/:relation/:id",
+        "policies": [
+          "isAuthorized",
+          "addDataUpdate",
+          "userAddOrRemoveRole"
+        ],
+        "controller": "User",
+        "action": "remove",
+        "isPublic": false,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": false,
+        "id": 18,
+        "createdAt": "2016-10-13T22:49:51.667Z",
+        "updatedAt": "2016-10-18T20:17:47.054Z"
+      },
+      {
+        "name": "POST /auth/logout",
+        "policies": null,
+        "controller": "Auth",
+        "action": "logout",
+        "isPublic": true,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": false,
+        "id": 19,
+        "createdAt": "2016-10-13T22:49:51.668Z",
+        "updatedAt": "2016-10-18T20:17:47.056Z"
+      },
+      {
+        "name": "POST /auth/forgot-password",
+        "policies": null,
+        "controller": "Auth",
+        "action": "forgotPassword",
+        "isPublic": true,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": false,
+        "id": 20,
+        "createdAt": "2016-10-13T22:49:51.669Z",
+        "updatedAt": "2016-10-18T20:17:47.059Z"
+      },
+      {
+        "name": "POST /auth/change-password",
+        "policies": null,
+        "controller": "Auth",
+        "action": "changePassword",
+        "isPublic": true,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": false,
+        "id": 21,
+        "createdAt": "2016-10-13T22:49:51.669Z",
+        "updatedAt": "2016-10-18T20:17:47.063Z"
+      },
+      {
+        "name": "POST /auth/local",
+        "policies": null,
+        "controller": "Auth",
+        "action": "callback",
+        "isPublic": true,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": false,
+        "id": 22,
+        "createdAt": "2016-10-13T22:49:51.670Z",
+        "updatedAt": "2016-10-18T20:17:47.065Z"
+      },
+      {
+        "name": "POST /auth/local/register",
+        "policies": null,
+        "controller": "Auth",
+        "action": "register",
+        "isPublic": true,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": false,
+        "id": 23,
+        "createdAt": "2016-10-13T22:49:51.670Z",
+        "updatedAt": "2016-10-18T20:17:47.071Z"
+      },
+      {
+        "name": "GET /auth/:provider/callback",
+        "policies": null,
+        "controller": "Auth",
+        "action": "callback",
+        "isPublic": true,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": false,
+        "id": 24,
+        "createdAt": "2016-10-13T22:49:51.671Z",
+        "updatedAt": "2016-10-18T20:17:47.074Z"
+      },
+      {
+        "name": "GET /devices",
+        "policies": [
+          "isAuthorized"
+        ],
+        "controller": "Devices",
+        "action": "find",
+        "isPublic": true,
+        "registeredAuthorized": true,
+        "contributorsAuthorized": true,
+        "id": 25,
+        "createdAt": "2016-10-14T00:42:30.050Z",
+        "updatedAt": "2016-10-18T20:17:46.954Z"
+      },
+      {
+        "name": "GET /devices/:id",
+        "policies": [
+          "isAuthorized"
+        ],
+        "controller": "Devices",
+        "action": "findOne",
+        "isPublic": true,
+        "registeredAuthorized": true,
+        "contributorsAuthorized": true,
+        "id": 26,
+        "createdAt": "2016-10-14T00:58:27.296Z",
+        "updatedAt": "2016-10-18T20:17:46.960Z"
+      },
+      {
+        "name": "POST /devices",
+        "policies": [
+          "isAuthorized",
+          "addDataCreate"
+        ],
+        "controller": "Devices",
+        "action": "create",
+        "isPublic": false,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": true,
+        "id": 27,
+        "createdAt": "2016-10-14T01:06:22.848Z",
+        "updatedAt": "2016-10-18T20:17:46.968Z"
+      },
+      {
+        "name": "PUT /devices/:id",
+        "policies": [
+          "isAuthorized",
+          "addDataUpdate"
+        ],
+        "controller": "Devices",
+        "action": "update",
+        "isPublic": false,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": true,
+        "id": 28,
+        "createdAt": "2016-10-14T01:06:22.851Z",
+        "updatedAt": "2016-10-18T20:17:46.970Z"
+      },
+      {
+        "name": "DELETE /devices/:id",
+        "policies": [
+          "isAuthorized"
+        ],
+        "controller": "Devices",
+        "action": "destroy",
+        "isPublic": false,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": true,
+        "id": 29,
+        "createdAt": "2016-10-14T01:06:22.853Z",
+        "updatedAt": "2016-10-18T20:17:46.974Z"
+      },
+      {
+        "name": "POST /devices/:parentId/:relation",
+        "policies": [
+          "isAuthorized",
+          "addDataCreate"
+        ],
+        "controller": "Devices",
+        "action": "add",
+        "isPublic": false,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": true,
+        "id": 30,
+        "createdAt": "2016-10-14T01:06:22.857Z",
+        "updatedAt": "2016-10-18T20:17:46.977Z"
+      },
+      {
+        "name": "DELETE /devices/:parentId/:relation/:id",
+        "policies": [
+          "isAuthorized",
+          "addDataUpdate"
+        ],
+        "controller": "Devices",
+        "action": "remove",
+        "isPublic": false,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": true,
+        "id": 31,
+        "createdAt": "2016-10-14T01:06:22.858Z",
+        "updatedAt": "2016-10-18T20:17:46.979Z"
+      },
+      {
+        "name": "GET /readings",
+        "policies": [
+          "isAuthorized"
+        ],
+        "controller": "Readings",
+        "action": "find",
+        "isPublic": true,
+        "registeredAuthorized": true,
+        "contributorsAuthorized": true,
+        "id": 40,
+        "createdAt": "2016-10-14T02:04:53.224Z",
+        "updatedAt": "2016-10-18T20:17:46.984Z"
+      },
+      {
+        "name": "GET /readings/:id",
+        "policies": [
+          "isAuthorized"
+        ],
+        "controller": "Readings",
+        "action": "findOne",
+        "isPublic": true,
+        "registeredAuthorized": true,
+        "contributorsAuthorized": true,
+        "id": 41,
+        "createdAt": "2016-10-14T02:04:53.226Z",
+        "updatedAt": "2016-10-18T20:17:46.989Z"
+      },
+      {
+        "name": "POST /readings",
+        "policies": [
+          "isAuthorized",
+          "addDataCreate"
+        ],
+        "controller": "Readings",
+        "action": "create",
+        "isPublic": true,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": true,
+        "id": 42,
+        "createdAt": "2016-10-14T02:04:53.227Z",
+        "updatedAt": "2016-10-18T20:17:46.994Z"
+      },
+      {
+        "name": "PUT /readings/:id",
+        "policies": [
+          "isAuthorized",
+          "addDataUpdate"
+        ],
+        "controller": "Readings",
+        "action": "update",
+        "isPublic": false,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": true,
+        "id": 43,
+        "createdAt": "2016-10-14T02:04:53.228Z",
+        "updatedAt": "2016-10-18T20:17:46.999Z"
+      },
+      {
+        "name": "DELETE /readings/:id",
+        "policies": [
+          "isAuthorized"
+        ],
+        "controller": "Readings",
+        "action": "destroy",
+        "isPublic": false,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": true,
+        "id": 44,
+        "createdAt": "2016-10-14T02:04:53.229Z",
+        "updatedAt": "2016-10-18T20:17:47.002Z"
+      },
+      {
+        "name": "POST /readings/:parentId/:relation",
+        "policies": [
+          "isAuthorized",
+          "addDataCreate"
+        ],
+        "controller": "Readings",
+        "action": "add",
+        "isPublic": false,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": true,
+        "id": 45,
+        "createdAt": "2016-10-14T02:04:53.231Z",
+        "updatedAt": "2016-10-18T20:17:47.005Z"
+      },
+      {
+        "name": "DELETE /readings/:parentId/:relation/:id",
+        "policies": [
+          "isAuthorized",
+          "addDataUpdate"
+        ],
+        "controller": "Readings",
+        "action": "remove",
+        "isPublic": false,
+        "registeredAuthorized": false,
+        "contributorsAuthorized": true,
+        "id": 46,
+        "createdAt": "2016-10-14T02:04:53.232Z",
+        "updatedAt": "2016-10-18T20:17:47.017Z"
+      },
+      {
+        "name": "GET /devices/:id/output",
+        "policies": [
+          "isAuthorized"
+        ],
+        "controller": "Devices",
+        "action": "getOutput",
+        "isPublic": true,
+        "registeredAuthorized": true,
+        "contributorsAuthorized": true,
+        "id": 48,
+        "createdAt": "2016-10-15T04:18:05.725Z",
+        "updatedAt": "2016-10-18T20:17:46.966Z"
+      }
+    ],
+    "role_routes__route_roles": [
+      {
+        "role_routes": 1,
+        "route_roles": 24,
+        "id": 120
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 1,
+        "id": 121
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 2,
+        "id": 122
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 3,
+        "id": 123
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 4,
+        "id": 124
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 5,
+        "id": 125
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 6,
+        "id": 126
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 7,
+        "id": 127
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 8,
+        "id": 128
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 9,
+        "id": 129
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 25,
+        "id": 130
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 26,
+        "id": 131
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 27,
+        "id": 132
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 28,
+        "id": 133
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 29,
+        "id": 134
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 30,
+        "id": 135
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 31,
+        "id": 136
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 10,
+        "id": 137
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 40,
+        "id": 138
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 41,
+        "id": 139
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 42,
+        "id": 140
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 43,
+        "id": 141
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 44,
+        "id": 142
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 45,
+        "id": 143
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 46,
+        "id": 144
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 11,
+        "id": 145
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 12,
+        "id": 146
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 13,
+        "id": 147
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 14,
+        "id": 148
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 15,
+        "id": 149
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 16,
+        "id": 150
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 17,
+        "id": 151
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 18,
+        "id": 152
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 19,
+        "id": 153
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 20,
+        "id": 154
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 21,
+        "id": 155
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 22,
+        "id": 156
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 23,
+        "id": 157
+      },
+      {
+        "role_routes": 1,
+        "route_roles": 48,
+        "id": 159
+      }
+    ]
+  },
+  "schema": {
+    "reading": {
+      "type": {
+        "type": "string"
+      },
+      "value": {
+        "type": "float"
+      },
+      "meta": {
+        "type": "json"
+      },
+      "lang": {
+        "type": "string"
+      },
+      "template": {
+        "type": "string"
+      },
+      "id_ref": {
+        "type": "string"
+      },
+      "createdBy": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "createdBy"
+      },
+      "device": {
+        "type": "integer",
+        "model": "devices",
+        "foreignKey": true,
+        "alias": "device"
+      },
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "devices": {
+      "name": {
+        "type": "string"
+      },
+      "macAddress": {
+        "type": "string"
+      },
+      "target": {
+        "type": "float"
+      },
+      "buffer": {
+        "type": "float"
+      },
+      "meta": {
+        "type": "json"
+      },
+      "createdBy": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "createdBy"
+      },
+      "updatedBy": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "updatedBy"
+      },
+      "lang": {
+        "type": "string"
+      },
+      "template": {
+        "type": "string"
+      },
+      "id_ref": {
+        "type": "string"
+      },
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "readings": {
+      "value": {
+        "type": "float"
+      },
+      "type": {
+        "type": "string"
+      },
+      "meta": {
+        "type": "json"
+      },
+      "lang": {
+        "type": "string"
+      },
+      "template": {
+        "type": "string"
+      },
+      "id_ref": {
+        "type": "string"
+      },
+      "createdBy": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "createdBy"
+      },
+      "updatedBy": {
+        "type": "integer",
+        "model": "user",
+        "foreignKey": true,
+        "alias": "updatedBy"
+      },
+      "device": {
+        "type": "integer",
+        "model": "devices",
+        "foreignKey": true,
+        "alias": "device"
+      },
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "role": {
+      "name": {
+        "type": "string"
+      },
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "route": {
+      "name": {
+        "type": "string"
+      },
+      "policies": {
+        "type": "array"
+      },
+      "controller": {
+        "type": "string"
+      },
+      "action": {
+        "type": "string"
+      },
+      "isPublic": {
+        "type": "boolean",
+        "defaultsTo": false
+      },
+      "registeredAuthorized": {
+        "type": "boolean",
+        "defaultsTo": false
+      },
+      "contributorsAuthorized": {
+        "type": "boolean",
+        "defaultsTo": false
+      },
+      "id": {
+        "type": "integer",
+        "autoIncrement": true,
+        "primaryKey": true,
+        "unique": true
+      },
+      "createdAt": {
+        "type": "datetime"
+      },
+      "updatedAt": {
+        "type": "datetime"
+      }
+    },
+    "role_routes__route_roles": {
+      "id": {
+        "primaryKey": true,
+        "unique": true,
+        "autoIncrement": true,
+        "type": "integer"
+      },
+      "role_routes": {
+        "type": "integer",
+        "foreignKey": true,
+        "references": "role",
+        "on": "id",
+        "via": "route_roles"
+      },
+      "route_roles": {
+        "type": "integer",
+        "foreignKey": true,
+        "references": "route",
+        "on": "id",
+        "via": "role_routes"
+      }
+    }
+  },
+  "counters": {
+    "role": {
+      "id": 1
+    },
+    "route": {
+      "id": 48
+    },
+    "role_routes__route_roles": {
+      "id": 159
+    },
+    "reading": {
+      "id": 1
+    },
+    "devices": {
+      "id": 2
+    },
+    "readings": {
+      "id": 312
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "routes": {
+    "GET /devices": {
+      "controller": "Devices",
+      "action": "find",
+      "policies": [
+        "isAuthorized"
+      ]
+    },
+    "GET /devices/:id": {
+      "controller": "Devices",
+      "action": "findOne",
+      "policies": [
+        "isAuthorized"
+      ]
+    },
+    "GET /devices/:id/output": {
+      "controller": "Devices",
+      "action": "getOutput",
+      "policies": [
+        "isAuthorized"
+      ]
+    },
+    "POST /devices": {
+      "controller": "Devices",
+      "action": "create",
+      "policies": [
+        "isAuthorized",
+        "addDataCreate"
+      ]
+    },
+    "PUT /devices/:id": {
+      "controller": "Devices",
+      "action": "update",
+      "policies": [
+        "isAuthorized",
+        "addDataUpdate"
+      ]
+    },
+    "DELETE /devices/:id": {
+      "controller": "Devices",
+      "action": "destroy",
+      "policies": [
+        "isAuthorized"
+      ]
+    },
+    "POST /devices/:parentId/:relation": {
+      "controller": "Devices",
+      "action": "add",
+      "policies": [
+        "isAuthorized",
+        "addDataCreate"
+      ]
+    },
+    "DELETE /devices/:parentId/:relation/:id": {
+      "controller": "Devices",
+      "action": "remove",
+      "policies": [
+        "isAuthorized",
+        "addDataUpdate"
+      ]
+    }
+  }
+}

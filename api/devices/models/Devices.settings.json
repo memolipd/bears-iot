@@ -1,0 +1,70 @@
+{
+  "identity": "devices",
+  "connection": "permanent",
+  "defaultTemplate": "default",
+  "displayedAttribute": "",
+  "schema": true,
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "macAddress": {
+      "type": "string"
+    },
+    "target": {
+      "type": "float"
+    },
+    "buffer": {
+      "type": "float"
+    },
+    "meta": {
+      "type": "json"
+    },
+    "createdBy": {
+      "model": "user"
+    },
+    "updatedBy": {
+      "model": "user"
+    },
+    "contributors": {
+      "collection": "user",
+      "via": "devices"
+    },
+    "lang": {
+      "type": "string",
+      "required": true
+    },
+    "template": {
+      "type": "string",
+      "required": true
+    },
+    "id_ref": {
+      "type": "int"
+    }
+  },
+  "autoCreatedAt": true,
+  "autoUpdatedAt": true,
+  "migrate": "alter",
+  "templates": {
+    "default": {
+      "attributes": {
+        "name": {
+          "type": "string"
+        },
+        "macAddress": {
+          "type": "string"
+        },
+        "target": {
+          "type": "float"
+        },
+        "continuous": {
+          "type": "boolean"
+        },
+        "meta": {
+          "type": "json"
+        }
+      },
+      "displayedAttribute": "name"
+    }
+  }
+}

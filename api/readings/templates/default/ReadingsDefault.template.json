@@ -1,0 +1,14 @@
+{
+  "default": {
+    "attributes": {
+      "value": {
+        "required": true
+      },
+      "type": {
+        "required": true
+      },
+      "meta": {}
+    },
+    "displayedAttribute": "value"
+  }
+}

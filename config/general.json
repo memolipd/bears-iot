@@ -1,0 +1,23 @@
+{
+  "static": true,
+  "views": {
+    "map": {
+      "html": "lodash"
+    },
+    "default": "html"
+  },
+  "websockets": true,
+  "favicon": {
+    "path": "favicon.ico",
+    "maxAge": 86400000
+  },
+  "prefix": "",
+  "blueprints": {
+    "defaultLimit": 30,
+    "populate": true
+  },
+  "graphql": {
+    "enabled": true,
+    "route": "/graphql"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "default": {
+    "attributes": {
+      "name": {
+        "required": true
+      },
+      "macAddress": {},
+      "target": {},
+      "buffer": {},
+      "meta": {}
+    },
+    "displayedAttribute": "name"
+  }
+}

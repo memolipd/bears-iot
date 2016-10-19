@@ -1,0 +1,57 @@
+{
+  "routes": {
+    "GET /readings": {
+      "controller": "Readings",
+      "action": "find",
+      "policies": [
+        "isAuthorized"
+      ]
+    },
+    "GET /readings/:id": {
+      "controller": "Readings",
+      "action": "findOne",
+      "policies": [
+        "isAuthorized"
+      ]
+    },
+    "POST /readings": {
+      "controller": "Readings",
+      "action": "create",
+      "policies": [
+        "isAuthorized",
+        "addDataCreate"
+      ]
+    },
+    "PUT /readings/:id": {
+      "controller": "Readings",
+      "action": "update",
+      "policies": [
+        "isAuthorized",
+        "addDataUpdate"
+      ]
+    },
+    "DELETE /readings/:id": {
+      "controller": "Readings",
+      "action": "destroy",
+      "policies": [
+        "isAuthorized"
+      ]
+    },
+    "POST /readings/:parentId/:relation": {
+      "controller": "Readings",
+      "action": "add",
+      "policies": [
+        "isAuthorized",
+        "addDataCreate"
+      ]
+    },
+    "DELETE /readings/:parentId/:relation/:id": {
+      "controller": "Readings",
+      "action": "remove",
+      "policies": [
+        "isAuthorized",
+        "addDataUpdate"
+      ]
+    }
+  }
+}
