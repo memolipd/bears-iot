@@ -9,13 +9,13 @@
         "adapter": "disk",
         "filePath": ".tmp/",
         "fileName": "default.db",
-        "migrate": "safe"
+        "migrate": "alter"
       },
       "permanent": {
         "adapter": "disk",
-        "filePath": "./data/",
+        "filePath": "/data/",
         "fileName": "permanent.db",
-        "migrate": "safe"
+        "migrate": "alter"
       }
     }
   }
