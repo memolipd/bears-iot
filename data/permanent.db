@@ -679,24 +679,554 @@
         "updatedAt": "2016-10-18T20:17:12.949Z"
       },
       {
-        "type": "temp",
         "value": 26,
-        "device": 2,
-        "template": "default",
+        "type": "temp",
         "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 311,
         "createdAt": "2016-10-18T20:17:48.927Z",
-        "updatedAt": "2016-10-18T20:17:48.938Z",
-        "id": 311
+        "updatedAt": "2016-10-18T20:17:48.938Z"
       },
       {
-        "type": "temp",
         "value": 26,
-        "device": 2,
-        "template": "default",
+        "type": "temp",
         "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 312,
         "createdAt": "2016-10-18T20:17:57.266Z",
-        "updatedAt": "2016-10-18T20:17:57.291Z",
-        "id": 312
+        "updatedAt": "2016-10-18T20:17:57.291Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 313,
+        "createdAt": "2016-10-19T23:27:54.025Z",
+        "updatedAt": "2016-10-19T23:27:54.067Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 314,
+        "createdAt": "2016-10-19T23:28:59.339Z",
+        "updatedAt": "2016-10-19T23:28:59.346Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 315,
+        "createdAt": "2016-10-19T23:29:23.403Z",
+        "updatedAt": "2016-10-19T23:29:23.423Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 316,
+        "createdAt": "2016-10-19T23:29:28.668Z",
+        "updatedAt": "2016-10-19T23:29:28.676Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 317,
+        "createdAt": "2016-10-19T23:30:52.638Z",
+        "updatedAt": "2016-10-19T23:30:52.652Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 318,
+        "createdAt": "2016-10-20T20:31:05.723Z",
+        "updatedAt": "2016-10-20T20:31:05.732Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 319,
+        "createdAt": "2016-10-20T20:33:27.931Z",
+        "updatedAt": "2016-10-20T20:33:27.985Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 320,
+        "createdAt": "2016-10-20T20:36:51.564Z",
+        "updatedAt": "2016-10-20T20:36:51.572Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 321,
+        "createdAt": "2016-10-20T20:40:04.685Z",
+        "updatedAt": "2016-10-20T20:40:04.703Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 322,
+        "createdAt": "2016-10-20T20:57:38.579Z",
+        "updatedAt": "2016-10-20T20:57:38.586Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 323,
+        "createdAt": "2016-10-20T20:58:29.264Z",
+        "updatedAt": "2016-10-20T20:58:29.271Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 324,
+        "createdAt": "2016-10-20T22:25:51.965Z",
+        "updatedAt": "2016-10-20T22:25:51.971Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 325,
+        "createdAt": "2016-10-20T22:26:27.633Z",
+        "updatedAt": "2016-10-20T22:26:27.670Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 326,
+        "createdAt": "2016-10-20T22:29:06.911Z",
+        "updatedAt": "2016-10-20T22:29:06.927Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 327,
+        "createdAt": "2016-10-20T22:29:57.691Z",
+        "updatedAt": "2016-10-20T22:29:57.706Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 328,
+        "createdAt": "2016-10-20T22:30:30.226Z",
+        "updatedAt": "2016-10-20T22:30:30.267Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 329,
+        "createdAt": "2016-10-20T22:49:41.645Z",
+        "updatedAt": "2016-10-20T22:49:41.651Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 330,
+        "createdAt": "2016-10-20T22:50:37.903Z",
+        "updatedAt": "2016-10-20T22:50:37.960Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 331,
+        "createdAt": "2016-10-20T22:51:11.752Z",
+        "updatedAt": "2016-10-20T22:51:11.814Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 332,
+        "createdAt": "2016-10-20T22:52:00.678Z",
+        "updatedAt": "2016-10-20T22:52:00.725Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 333,
+        "createdAt": "2016-10-20T22:53:18.525Z",
+        "updatedAt": "2016-10-20T22:53:18.544Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 334,
+        "createdAt": "2016-10-20T22:56:02.396Z",
+        "updatedAt": "2016-10-20T22:56:02.445Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 335,
+        "createdAt": "2016-10-20T22:57:28.924Z",
+        "updatedAt": "2016-10-20T22:57:28.933Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 336,
+        "createdAt": "2016-10-20T22:58:20.674Z",
+        "updatedAt": "2016-10-20T22:58:20.694Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 337,
+        "createdAt": "2016-10-20T22:58:48.941Z",
+        "updatedAt": "2016-10-20T22:58:48.963Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 338,
+        "createdAt": "2016-10-20T22:59:28.302Z",
+        "updatedAt": "2016-10-20T22:59:28.371Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 339,
+        "createdAt": "2016-10-20T23:01:05.572Z",
+        "updatedAt": "2016-10-20T23:01:05.587Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 340,
+        "createdAt": "2016-10-20T23:03:09.399Z",
+        "updatedAt": "2016-10-20T23:03:09.433Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 341,
+        "createdAt": "2016-10-20T23:04:15.709Z",
+        "updatedAt": "2016-10-20T23:04:15.724Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 342,
+        "createdAt": "2016-10-20T23:08:02.008Z",
+        "updatedAt": "2016-10-20T23:08:02.016Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 343,
+        "createdAt": "2016-10-20T23:21:47.621Z",
+        "updatedAt": "2016-10-20T23:21:47.640Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 344,
+        "createdAt": "2016-10-20T23:23:19.700Z",
+        "updatedAt": "2016-10-20T23:23:19.719Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 345,
+        "createdAt": "2016-10-20T23:24:38.266Z",
+        "updatedAt": "2016-10-20T23:24:38.273Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 346,
+        "createdAt": "2016-10-20T23:29:43.560Z",
+        "updatedAt": "2016-10-20T23:29:43.580Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 347,
+        "createdAt": "2016-10-20T23:37:39.124Z",
+        "updatedAt": "2016-10-20T23:37:39.137Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 348,
+        "createdAt": "2016-10-20T23:37:55.115Z",
+        "updatedAt": "2016-10-20T23:37:55.136Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 349,
+        "createdAt": "2016-10-21T00:36:06.284Z",
+        "updatedAt": "2016-10-21T00:36:06.304Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 350,
+        "createdAt": "2016-10-21T00:36:18.547Z",
+        "updatedAt": "2016-10-21T00:36:18.557Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 351,
+        "createdAt": "2016-10-21T00:37:15.366Z",
+        "updatedAt": "2016-10-21T00:37:15.373Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 352,
+        "createdAt": "2016-10-21T00:46:16.320Z",
+        "updatedAt": "2016-10-21T00:46:16.332Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 353,
+        "createdAt": "2016-10-21T00:46:36.965Z",
+        "updatedAt": "2016-10-21T00:46:36.972Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 354,
+        "createdAt": "2016-10-21T00:47:08.971Z",
+        "updatedAt": "2016-10-21T00:47:08.980Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 355,
+        "createdAt": "2016-10-21T00:49:18.917Z",
+        "updatedAt": "2016-10-21T00:49:18.923Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 356,
+        "createdAt": "2016-10-21T00:55:14.903Z",
+        "updatedAt": "2016-10-21T00:55:14.912Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 357,
+        "createdAt": "2016-10-21T00:56:11.867Z",
+        "updatedAt": "2016-10-21T00:56:11.875Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 358,
+        "createdAt": "2016-10-21T01:02:38.970Z",
+        "updatedAt": "2016-10-21T01:02:38.981Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 359,
+        "createdAt": "2016-10-21T01:02:55.305Z",
+        "updatedAt": "2016-10-21T01:02:55.322Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 360,
+        "createdAt": "2016-10-21T01:03:29.487Z",
+        "updatedAt": "2016-10-21T01:03:29.494Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 361,
+        "createdAt": "2016-10-21T01:05:30.241Z",
+        "updatedAt": "2016-10-21T01:05:30.248Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 362,
+        "createdAt": "2016-10-21T01:06:59.926Z",
+        "updatedAt": "2016-10-21T01:06:59.933Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 363,
+        "createdAt": "2016-10-21T01:07:27.481Z",
+        "updatedAt": "2016-10-21T01:07:27.489Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 364,
+        "createdAt": "2016-10-21T01:08:49.705Z",
+        "updatedAt": "2016-10-21T01:08:49.715Z"
+      },
+      {
+        "value": 26,
+        "type": "temp",
+        "lang": "en_GB",
+        "template": "default",
+        "device": 2,
+        "id": 365,
+        "createdAt": "2016-10-21T01:09:15.210Z",
+        "updatedAt": "2016-10-21T01:09:15.217Z"
       }
     ],
     "role": [
@@ -718,7 +1248,7 @@
         "contributorsAuthorized": true,
         "id": 1,
         "createdAt": "2016-10-13T22:49:51.646Z",
-        "updatedAt": "2016-10-18T20:17:46.911Z"
+        "updatedAt": "2016-10-21T01:11:07.946Z"
       },
       {
         "name": "GET /admin/routes",
@@ -730,7 +1260,7 @@
         "contributorsAuthorized": true,
         "id": 2,
         "createdAt": "2016-10-13T22:49:51.647Z",
-        "updatedAt": "2016-10-18T20:17:46.917Z"
+        "updatedAt": "2016-10-21T01:11:07.955Z"
       },
       {
         "name": "PUT /admin/routes",
@@ -744,7 +1274,7 @@
         "contributorsAuthorized": true,
         "id": 3,
         "createdAt": "2016-10-13T22:49:51.648Z",
-        "updatedAt": "2016-10-18T20:17:46.925Z"
+        "updatedAt": "2016-10-21T01:11:07.965Z"
       },
       {
         "name": "GET /admin/explorer/:model",
@@ -758,7 +1288,7 @@
         "contributorsAuthorized": true,
         "id": 4,
         "createdAt": "2016-10-13T22:49:51.648Z",
-        "updatedAt": "2016-10-18T20:17:46.927Z"
+        "updatedAt": "2016-10-21T01:11:07.970Z"
       },
       {
         "name": "GET /admin/explorer/:model/count",
@@ -772,7 +1302,7 @@
         "contributorsAuthorized": true,
         "id": 5,
         "createdAt": "2016-10-13T22:49:51.648Z",
-        "updatedAt": "2016-10-18T20:17:46.933Z"
+        "updatedAt": "2016-10-21T01:11:07.983Z"
       },
       {
         "name": "GET /admin/explorer/:model/:id",
@@ -786,7 +1316,7 @@
         "contributorsAuthorized": true,
         "id": 6,
         "createdAt": "2016-10-13T22:49:51.659Z",
-        "updatedAt": "2016-10-18T20:17:46.937Z"
+        "updatedAt": "2016-10-21T01:11:07.988Z"
       },
       {
         "name": "POST /admin/explorer/:model",
@@ -801,7 +1331,7 @@
         "contributorsAuthorized": true,
         "id": 7,
         "createdAt": "2016-10-13T22:49:51.660Z",
-        "updatedAt": "2016-10-18T20:17:46.940Z"
+        "updatedAt": "2016-10-21T01:11:07.992Z"
       },
       {
         "name": "PUT /admin/explorer/:model/:id",
@@ -816,7 +1346,7 @@
         "contributorsAuthorized": true,
         "id": 8,
         "createdAt": "2016-10-13T22:49:51.661Z",
-        "updatedAt": "2016-10-18T20:17:46.944Z"
+        "updatedAt": "2016-10-21T01:11:07.995Z"
       },
       {
         "name": "DELETE /admin/explorer/:model/:id",
@@ -830,7 +1360,7 @@
         "contributorsAuthorized": true,
         "id": 9,
         "createdAt": "2016-10-13T22:49:51.662Z",
-        "updatedAt": "2016-10-18T20:17:46.946Z"
+        "updatedAt": "2016-10-21T01:11:07.999Z"
       },
       {
         "name": "POST /email",
@@ -844,7 +1374,7 @@
         "contributorsAuthorized": true,
         "id": 10,
         "createdAt": "2016-10-13T22:49:51.662Z",
-        "updatedAt": "2016-10-18T20:17:46.982Z"
+        "updatedAt": "2016-10-21T01:11:08.043Z"
       },
       {
         "name": "POST /upload",
@@ -859,7 +1389,7 @@
         "contributorsAuthorized": true,
         "id": 11,
         "createdAt": "2016-10-13T22:49:51.663Z",
-        "updatedAt": "2016-10-18T20:17:47.023Z"
+        "updatedAt": "2016-10-21T01:11:08.080Z"
       },
       {
         "name": "GET /user",
@@ -873,7 +1403,7 @@
         "contributorsAuthorized": false,
         "id": 12,
         "createdAt": "2016-10-13T22:49:51.663Z",
-        "updatedAt": "2016-10-18T20:17:47.031Z"
+        "updatedAt": "2016-10-21T01:11:08.083Z"
       },
       {
         "name": "GET /user/:id",
@@ -887,7 +1417,7 @@
         "contributorsAuthorized": true,
         "id": 13,
         "createdAt": "2016-10-13T22:49:51.664Z",
-        "updatedAt": "2016-10-18T20:17:47.037Z"
+        "updatedAt": "2016-10-21T01:11:08.089Z"
       },
       {
         "name": "POST /user",
@@ -903,7 +1433,7 @@
         "contributorsAuthorized": false,
         "id": 14,
         "createdAt": "2016-10-13T22:49:51.665Z",
-        "updatedAt": "2016-10-18T20:17:47.043Z"
+        "updatedAt": "2016-10-21T01:11:08.092Z"
       },
       {
         "name": "PUT /user/:id",
@@ -919,7 +1449,7 @@
         "contributorsAuthorized": true,
         "id": 15,
         "createdAt": "2016-10-13T22:49:51.666Z",
-        "updatedAt": "2016-10-18T20:17:47.046Z"
+        "updatedAt": "2016-10-21T01:11:08.095Z"
       },
       {
         "name": "DELETE /user/:id",
@@ -933,7 +1463,7 @@
         "contributorsAuthorized": true,
         "id": 16,
         "createdAt": "2016-10-13T22:49:51.666Z",
-        "updatedAt": "2016-10-18T20:17:47.048Z"
+        "updatedAt": "2016-10-21T01:11:08.098Z"
       },
       {
         "name": "POST /user/:parentId/:relation",
@@ -949,7 +1479,7 @@
         "contributorsAuthorized": false,
         "id": 17,
         "createdAt": "2016-10-13T22:49:51.667Z",
-        "updatedAt": "2016-10-18T20:17:47.051Z"
+        "updatedAt": "2016-10-21T01:11:08.103Z"
       },
       {
         "name": "DELETE /user/:parentId/:relation/:id",
@@ -965,7 +1495,7 @@
         "contributorsAuthorized": false,
         "id": 18,
         "createdAt": "2016-10-13T22:49:51.667Z",
-        "updatedAt": "2016-10-18T20:17:47.054Z"
+        "updatedAt": "2016-10-21T01:11:08.107Z"
       },
       {
         "name": "POST /auth/logout",
@@ -977,7 +1507,7 @@
         "contributorsAuthorized": false,
         "id": 19,
         "createdAt": "2016-10-13T22:49:51.668Z",
-        "updatedAt": "2016-10-18T20:17:47.056Z"
+        "updatedAt": "2016-10-21T01:11:08.110Z"
       },
       {
         "name": "POST /auth/forgot-password",
@@ -989,7 +1519,7 @@
         "contributorsAuthorized": false,
         "id": 20,
         "createdAt": "2016-10-13T22:49:51.669Z",
-        "updatedAt": "2016-10-18T20:17:47.059Z"
+        "updatedAt": "2016-10-21T01:11:08.115Z"
       },
       {
         "name": "POST /auth/change-password",
@@ -1001,7 +1531,7 @@
         "contributorsAuthorized": false,
         "id": 21,
         "createdAt": "2016-10-13T22:49:51.669Z",
-        "updatedAt": "2016-10-18T20:17:47.063Z"
+        "updatedAt": "2016-10-21T01:11:08.119Z"
       },
       {
         "name": "POST /auth/local",
@@ -1013,7 +1543,7 @@
         "contributorsAuthorized": false,
         "id": 22,
         "createdAt": "2016-10-13T22:49:51.670Z",
-        "updatedAt": "2016-10-18T20:17:47.065Z"
+        "updatedAt": "2016-10-21T01:11:08.124Z"
       },
       {
         "name": "POST /auth/local/register",
@@ -1025,7 +1555,7 @@
         "contributorsAuthorized": false,
         "id": 23,
         "createdAt": "2016-10-13T22:49:51.670Z",
-        "updatedAt": "2016-10-18T20:17:47.071Z"
+        "updatedAt": "2016-10-21T01:11:08.129Z"
       },
       {
         "name": "GET /auth/:provider/callback",
@@ -1037,7 +1567,7 @@
         "contributorsAuthorized": false,
         "id": 24,
         "createdAt": "2016-10-13T22:49:51.671Z",
-        "updatedAt": "2016-10-18T20:17:47.074Z"
+        "updatedAt": "2016-10-21T01:11:08.134Z"
       },
       {
         "name": "GET /devices",
@@ -1051,7 +1581,7 @@
         "contributorsAuthorized": true,
         "id": 25,
         "createdAt": "2016-10-14T00:42:30.050Z",
-        "updatedAt": "2016-10-18T20:17:46.954Z"
+        "updatedAt": "2016-10-21T01:11:08.003Z"
       },
       {
         "name": "GET /devices/:id",
@@ -1065,7 +1595,7 @@
         "contributorsAuthorized": true,
         "id": 26,
         "createdAt": "2016-10-14T00:58:27.296Z",
-        "updatedAt": "2016-10-18T20:17:46.960Z"
+        "updatedAt": "2016-10-21T01:11:08.007Z"
       },
       {
         "name": "POST /devices",
@@ -1080,7 +1610,7 @@
         "contributorsAuthorized": true,
         "id": 27,
         "createdAt": "2016-10-14T01:06:22.848Z",
-        "updatedAt": "2016-10-18T20:17:46.968Z"
+        "updatedAt": "2016-10-21T01:11:08.018Z"
       },
       {
         "name": "PUT /devices/:id",
@@ -1095,7 +1625,7 @@
         "contributorsAuthorized": true,
         "id": 28,
         "createdAt": "2016-10-14T01:06:22.851Z",
-        "updatedAt": "2016-10-18T20:17:46.970Z"
+        "updatedAt": "2016-10-21T01:11:08.022Z"
       },
       {
         "name": "DELETE /devices/:id",
@@ -1109,7 +1639,7 @@
         "contributorsAuthorized": true,
         "id": 29,
         "createdAt": "2016-10-14T01:06:22.853Z",
-        "updatedAt": "2016-10-18T20:17:46.974Z"
+        "updatedAt": "2016-10-21T01:11:08.026Z"
       },
       {
         "name": "POST /devices/:parentId/:relation",
@@ -1124,7 +1654,7 @@
         "contributorsAuthorized": true,
         "id": 30,
         "createdAt": "2016-10-14T01:06:22.857Z",
-        "updatedAt": "2016-10-18T20:17:46.977Z"
+        "updatedAt": "2016-10-21T01:11:08.031Z"
       },
       {
         "name": "DELETE /devices/:parentId/:relation/:id",
@@ -1139,7 +1669,7 @@
         "contributorsAuthorized": true,
         "id": 31,
         "createdAt": "2016-10-14T01:06:22.858Z",
-        "updatedAt": "2016-10-18T20:17:46.979Z"
+        "updatedAt": "2016-10-21T01:11:08.036Z"
       },
       {
         "name": "GET /readings",
@@ -1153,7 +1683,7 @@
         "contributorsAuthorized": true,
         "id": 40,
         "createdAt": "2016-10-14T02:04:53.224Z",
-        "updatedAt": "2016-10-18T20:17:46.984Z"
+        "updatedAt": "2016-10-21T01:11:08.046Z"
       },
       {
         "name": "GET /readings/:id",
@@ -1167,7 +1697,7 @@
         "contributorsAuthorized": true,
         "id": 41,
         "createdAt": "2016-10-14T02:04:53.226Z",
-        "updatedAt": "2016-10-18T20:17:46.989Z"
+        "updatedAt": "2016-10-21T01:11:08.048Z"
       },
       {
         "name": "POST /readings",
@@ -1182,7 +1712,7 @@
         "contributorsAuthorized": true,
         "id": 42,
         "createdAt": "2016-10-14T02:04:53.227Z",
-        "updatedAt": "2016-10-18T20:17:46.994Z"
+        "updatedAt": "2016-10-21T01:11:08.052Z"
       },
       {
         "name": "PUT /readings/:id",
@@ -1197,7 +1727,7 @@
         "contributorsAuthorized": true,
         "id": 43,
         "createdAt": "2016-10-14T02:04:53.228Z",
-        "updatedAt": "2016-10-18T20:17:46.999Z"
+        "updatedAt": "2016-10-21T01:11:08.057Z"
       },
       {
         "name": "DELETE /readings/:id",
@@ -1211,7 +1741,7 @@
         "contributorsAuthorized": true,
         "id": 44,
         "createdAt": "2016-10-14T02:04:53.229Z",
-        "updatedAt": "2016-10-18T20:17:47.002Z"
+        "updatedAt": "2016-10-21T01:11:08.062Z"
       },
       {
         "name": "POST /readings/:parentId/:relation",
@@ -1226,7 +1756,7 @@
         "contributorsAuthorized": true,
         "id": 45,
         "createdAt": "2016-10-14T02:04:53.231Z",
-        "updatedAt": "2016-10-18T20:17:47.005Z"
+        "updatedAt": "2016-10-21T01:11:08.070Z"
       },
       {
         "name": "DELETE /readings/:parentId/:relation/:id",
@@ -1241,7 +1771,7 @@
         "contributorsAuthorized": true,
         "id": 46,
         "createdAt": "2016-10-14T02:04:53.232Z",
-        "updatedAt": "2016-10-18T20:17:47.017Z"
+        "updatedAt": "2016-10-21T01:11:08.075Z"
       },
       {
         "name": "GET /devices/:id/output",
@@ -1255,7 +1785,7 @@
         "contributorsAuthorized": true,
         "id": 48,
         "createdAt": "2016-10-15T04:18:05.725Z",
-        "updatedAt": "2016-10-18T20:17:46.966Z"
+        "updatedAt": "2016-10-21T01:11:08.014Z"
       }
     ],
     "role_routes__route_roles": [
@@ -1696,7 +2226,7 @@
       "id": 2
     },
     "readings": {
-      "id": 312
+      "id": 365
     }
   }
 }

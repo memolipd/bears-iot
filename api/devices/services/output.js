@@ -1,35 +1,37 @@
 'use strict';
 
+/**
+ * Module dependencies
+ */
+
+
 module.exports = {
-  get_output: function * (device) {
-    console.log(device)
-    let output = 0;
+    get_output: function (device) {
 
-    Readings.find({
-      where: {
-        device: device.id
-      },
-      limit: device.buffer,
-      sort: 'createdAt DESC',
-      select: ['id','createdAt', 'value']
-    })
-    .exec(callback);
+      const deferred = Promise.defer();
 
 
+      Readings.find({
+        where: {
+          device: device.id
+        },
+        limit: device.buffer,
+        sort: 'createdAt DESC',
+        select: ['id','createdAt', 'value']
+      })
+      .exec(readings_callback);
 
-    function callback(err, results){
-      if (err) {
-        console.log(err);
-        return err
-      }
-      let temp_output = 0;
-      for (var i = 0; i < results.length; i++) {
-        temp_output += (device.target - results[i].value)
-      }
+      function readings_callback (err, readings){
+        if (err) {
+          deferred.reject(err);
+        }
+        let temp_output = 0;
+        for (var i = 0; i < readings.length; i++) {
+          temp_output += (device.target - readings[i].value)
+        }
+        deferred.resolve(temp_output/device.buffer);
+      };
 
-      output = temp_output/device.buffer
-      device['output'] = output
-      return device;
-    };
+    return deferred.promise;
   }
 };

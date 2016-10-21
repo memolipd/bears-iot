@@ -48,12 +48,11 @@ module.exports = {
   create: function * () {
     this.model = model;
     try {
-
       let entry = yield strapi.hooks.blueprints.create(this);
       let output = yield strapi.api.devices.services.output.get_output(entry.device);
-      this.body = output;
-
-      } catch (err) {
+      entry.output = output
+      this.body = entry;
+    } catch (err) {
       this.body = err;
     }
   },

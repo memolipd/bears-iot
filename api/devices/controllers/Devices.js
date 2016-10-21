@@ -19,9 +19,9 @@ module.exports = {
     this.model = model;
     try {
       let entry = yield strapi.hooks.blueprints.find(this);
-      console.log(yield strapi.api.devices.services.output.get_output(entry));
-      // entry['output'] = output;
-      this.body = entry;
+      let output = yield strapi.api.devices.services.output.get_output(entry);
+      entry.output = output
+      this.body = output;
     } catch (err) {
       this.body = err;
     }

@@ -98,18 +98,18 @@ module.exports = {
     } else {
       next(new Error('Unknow API or no template detected'));
     }
-  }
+  },
 
   /**
    * Lifecycle callbacks on create
    */
 
-  // Before creating a value.
-  // beforeCreate: function (values, next) {
-  //   next();
-  // },
+  //Before creating a value.
+  //beforeCreate: function (values, next) {
+  //  next();
+   // },
 
-  // After creating a value.
+  //After creating a value.
   // afterCreate: function (newlyInsertedRecord, next) {
   //   next();
   // },
